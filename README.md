@@ -11,40 +11,6 @@
 
 <br />
 
-<img src="assets/title-whos-watching.svg" width="100%" alt="Who's watching?" />
-
-<p align="center">
-  <a href="https://shivamjisorya.github.io/Portfolio/"><img src="assets/tile-main.svg" width="23%" alt="Shivam: the full series" /></a>
-  <a href="https://www.linkedin.com/in/shivam-jisorya-22107a204/"><img src="assets/tile-recruiter.svg" width="23%" alt="Recruiter: LinkedIn and resume" /></a>
-  <a href="https://github.com/shivamjisorya?tab=repositories"><img src="assets/tile-developer.svg" width="23%" alt="Developer: repositories" /></a>
-  <a href="https://shivamjisorya.github.io/Portfolio/"><img src="assets/tile-creative.svg" width="23%" alt="Creative: the portfolio" /></a>
-</p>
-
-<img src="assets/title-about.svg" width="100%" alt="The Pilot: About me" />
-<img src="assets/about.svg" width="100%" alt="A Software Development Engineer who turns ideas into production-ready software, from React interfaces to the CI/CD pipelines that ship them." />
-
-<br /><br />
-
-<img src="assets/title-continue.svg" width="100%" alt="Continue watching: experience" />
-<a href="https://shivamjisorya.github.io/Portfolio/">
-  <img src="assets/continue-watching.svg" width="100%" alt="SDE-1 at Digital Paani (Oct 2024 to now), SDE Intern at Digital Paani (Jun to Oct 2024), Node.js Developer at Manthan IT (Jan to Jun 2024)" />
-</a>
-
-<br /><br />
-
-<img src="assets/title-originals.svg" width="100%" alt="Shivam Originals: projects" />
-
-<p align="center">
-  <a href="https://shivamjisorya.github.io/Portfolio/"><img src="assets/og-portfolio.svg" width="32%" alt="Netflix-style portfolio" /></a>
-  <a href="https://github.com/shivamjisorya/pos-software"><img src="assets/og-pos.svg" width="32%" alt="POS Software" /></a>
-  <a href="https://shivamjisorya.github.io/Portfolio/"><img src="assets/og-trigger.svg" width="32%" alt="Trigger Engine" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/shivamjisorya/shree-ram-precast"><img src="assets/og-shreeram.svg" width="32%" alt="Shree Ram Precast website" /></a>
-  <a href="https://shivamjisorya.github.io/Portfolio/"><img src="assets/og-cicd.svg" width="32%" alt="CI/CD pipelines" /></a>
-  <a href="https://shivamjisorya.github.io/Portfolio/"><img src="assets/og-iicl.svg" width="32%" alt="IICL Student and Admin Portal" /></a>
-</p>
-
 <img src="assets/title-skills.svg" width="100%" alt="My skill universe" />
 
 <p align="center">
@@ -54,24 +20,6 @@
 </p>
 
 <br />
-
-<img src="assets/title-moments.svg" width="100%" alt="Awards season: top moments" />
-<img src="assets/top-moments.svg" width="100%" alt="Star Performer of the Year 2025-26, Most Shoutouts of the Year 2025, Employee of the Month Apr 2024, First Position A+ at VSIT, Best Product Dev Performer, B.Sc. IT with Distinction" />
-
-<br /><br />
-
-<img src="assets/title-bts.svg" width="100%" alt="Behind the scenes" />
-
-```js
-const shivam = {
-  now:        "SDE-1 @ Digital Paani",
-  building:   ["Trigger Engine", "CI/CD pipelines", "POS Software"],
-  learning:   "Full Stack AI Engineering (B.Tech CSE, MDU)",
-  askMeAbout: ["React", "Node.js", "GitHub Actions", "AWS"],
-  offScreen:  ["♟ chess", "🎧 music"],
-  funFact:    "The toughest thing on earth? Centering a div. 😂",
-};
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamjisorya/shivamjisorya/output/github-snake-dark.svg" />
